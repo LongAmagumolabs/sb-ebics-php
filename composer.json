@@ -1,0 +1,6 @@
+{
+    "require": {
+        "andrew-svirin/ebics-client-php": "2.x-dev",
+        "mpdf/mpdf": "8.0.17"
+    }
+}
